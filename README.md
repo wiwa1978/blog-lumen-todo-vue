@@ -4,3 +4,5 @@
 
 This application shows a Vue.js 2.0 REST client implementation (using Lumen REST API server)
 
+test
+
